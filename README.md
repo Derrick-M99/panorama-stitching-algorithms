@@ -28,8 +28,7 @@ The manual image stitching pipeline follows these four core computer vision step
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Derrick_M99/panorama-stitching-algorithms.git](https://github.com/Derrick_M99/panorama-stitching-algorithms.git)
-    cd panorama-stitching-algorithms
+    git clone https://github.com/Derrick-M99/panorama-stitching-algorithms.git
     ```
     
 
