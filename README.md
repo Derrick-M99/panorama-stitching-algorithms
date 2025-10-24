@@ -2,8 +2,6 @@
 
 This repository contains a comparative study of image stitching algorithms designed to create panoramas from various sources, including cityscapes, aerial drone footage, and video streams. The project implements and evaluates feature-based methods like **SIFT** and **ORB** and benchmarks them against OpenCV's built-in stitcher.
 
-This was developed as the final project for my MSc in Robotics, AI, and Autonomous Systems.
-
 ## Key Features
 
 * **Manual Implementation**: A from-scratch pipeline covering feature detection, matching, homography estimation (with RANSAC), and image warping.
@@ -30,9 +28,10 @@ The manual image stitching pipeline follows these four core computer vision step
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/panorama-stitching-algorithms.git](https://github.com/YOUR_USERNAME/panorama-stitching-algorithms.git)
+    git clone [https://github.com/Derrick_M99/panorama-stitching-algorithms.git](https://github.com/Derrick_M99/panorama-stitching-algorithms.git)
     cd panorama-stitching-algorithms
     ```
+    
 
 2.  **Create a virtual environment (recommended):**
     ```bash
