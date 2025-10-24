@@ -24,7 +24,7 @@ The manual image stitching pipeline follows these four core computer vision step
 3.  **Homography Estimation**: Compute the perspective transformation matrix ($H$) that maps points from one image plane to another, using `cv2.findHomography` with the RANSAC algorithm for robustness.
 4.  **Image Warping & Blending**: Use the computed homography matrix ($H$) to transform the images into a common panoramic canvas via `cv2.warpPerspective`.
 
-## ⚙️ Setup and Installation
+## Setup and Installation
 
 1.  **Clone the repository:**
     ```bash
